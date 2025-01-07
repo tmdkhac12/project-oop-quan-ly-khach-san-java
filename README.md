@@ -14,9 +14,10 @@ Chúc bạn một ngày tuyệt vời! 🌟
 
 ## Mục lục
 - [Giới thiệu](#giới-thiệu)
-- [Tính năng chính](#tính-năng-chính)
-- [Công nghệ sử dụng](#công-nghệ-sử-dụng)
-- [Cấu trúc thư mục](#cấu-trúc-thư-mục)
+- [Mục Tiêu](#-mục-tiêu)
+- [Chức Năng Chính](#-chức-năng-chính)
+- [Công Nghệ Sử Dụng](#-công-nghệ-sử-dụng)
+- [Cấu Trúc Dự Án](#-cấu-trúc-dự-án)
 - [Hướng dẫn cài đặt](#hướng-dẫn-cài-đặt)
 
 ## Giới thiệu
