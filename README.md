@@ -1,5 +1,4 @@
 # OOP Quản Lý Khách Sạn 
-## Giới thiệu
 Đây là đồ án học phần Lập Trình Hướng Đối Tượng (OOP), được phát triển bằng ngôn ngữ Java
 trên giao diện dòng lệnh (CLI). Dự án nhằm mô phỏng một hệ thống quản lý khách sạn, tích hợp các
 tính năng cơ bản để hỗ trợ việc quản lý hiệu quả và tiện lợi.
